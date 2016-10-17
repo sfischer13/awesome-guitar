@@ -23,6 +23,7 @@ You might also like [awesome-sheet-music](https://github.com/adius/awesome-sheet
 ### Overview
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Guitar) - Wikipedia entry about guitars.
+- [reddit](https://www.reddit.com/r/Guitar/) - Subreddit about guitars.
 - [Music: Practice & Theory](https://music.stackexchange.com/) - Stack Exchange for music.
 
 ## License
