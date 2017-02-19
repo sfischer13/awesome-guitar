@@ -15,6 +15,7 @@ You might also like [awesome-sheet-music](https://github.com/adius/awesome-sheet
 - [Introduction](#introduction)
   - [Overview](#overview)
 - [Learning](#learning)
+  - [Courses](#courses)
   - [Theory](#theory)
 - [Playing](#playing)
   - [Songs](#songs)
@@ -33,6 +34,9 @@ You might also like [awesome-sheet-music](https://github.com/adius/awesome-sheet
 
 ## Learning
 
+### Courses
+
+- [Introduction to Guitar](https://www.coursera.org/learn/guitar) - Coursera course.
 ### Theory
 
 - [Open Music Theory](http://openmusictheory.com/) - Open-source, interactive, online textbook.
