@@ -14,6 +14,8 @@ You might also like [awesome-sheet-music](https://github.com/adius/awesome-sheet
 
 - [Introduction](#introduction)
   - [Overview](#overview)
+- [Learning](#learning)
+  - [Theory](#theory)
 - [Playing](#playing)
   - [Songs](#songs)
 - [Building](#building)
@@ -29,6 +31,11 @@ You might also like [awesome-sheet-music](https://github.com/adius/awesome-sheet
 - [reddit](https://www.reddit.com/r/Guitar/) - Subreddit about guitars.
 - [Music: Practice & Theory](https://music.stackexchange.com/) - Stack Exchange for music.
 
+## Learning
+
+### Theory
+
+- [Open Music Theory](http://openmusictheory.com/) - Open-source, interactive, online textbook.
 ## Playing
 
 ### Songs
