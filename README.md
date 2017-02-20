@@ -13,7 +13,7 @@ You might also like [awesome-sheet-music](https://github.com/adius/awesome-sheet
 
 
 - [Introduction](#introduction)
-  - [Overview](#overview)
+- [Community](#community)
 - [Learning](#learning)
   - [Courses](#courses)
   - [Theory](#theory)
@@ -26,9 +26,10 @@ You might also like [awesome-sheet-music](https://github.com/adius/awesome-sheet
 
 ## Introduction
 
-### Overview
-
 - [Wikipedia](https://en.wikipedia.org/wiki/Guitar) - Wikipedia entry about guitars.
+
+## Community
+
 - [reddit](https://www.reddit.com/r/Guitar/) - Subreddit about guitars.
 - [Music: Practice & Theory](https://music.stackexchange.com/) - Stack Exchange for music.
 
@@ -40,6 +41,7 @@ You might also like [awesome-sheet-music](https://github.com/adius/awesome-sheet
 ### Theory
 
 - [Open Music Theory](http://openmusictheory.com/) - Open-source, interactive, online textbook.
+
 ## Playing
 
 ### Songs
