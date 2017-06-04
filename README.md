@@ -37,6 +37,7 @@ You might also like [awesome-sheet-music](https://github.com/adius/awesome-sheet
 
 ### Courses
 
+- [Wikibooks](https://en.wikibooks.org/wiki/Guitar) - Free introductory book.
 - [Introduction to Guitar](https://www.coursera.org/learn/guitar) - Coursera course.
 - [Justin Guitar](https://www.justinguitar.com/) - Free online lessons and great books.
 
