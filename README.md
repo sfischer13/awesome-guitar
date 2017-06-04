@@ -38,6 +38,8 @@ You might also like [awesome-sheet-music](https://github.com/adius/awesome-sheet
 ### Courses
 
 - [Introduction to Guitar](https://www.coursera.org/learn/guitar) - Coursera course.
+- [Justin Guitar](https://www.justinguitar.com/) - Free online lessons and great books.
+
 ### Theory
 
 - [Open Music Theory](http://openmusictheory.com/) - Open-source, interactive, online textbook.
