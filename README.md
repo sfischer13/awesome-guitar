@@ -55,7 +55,7 @@ You might also like [awesome-sheet-music](https://github.com/adius/awesome-sheet
 
 ### Songs
 
-- [WeeklyGuitarist](https://www.reddit.com/r/weeklyguitarist/) - Learn a new song every week!
+- [/r/weeklyguitarist](https://www.reddit.com/r/weeklyguitarist/) - Learn a new song every week!
 
 ### Equipment
 
