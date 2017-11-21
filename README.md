@@ -1,6 +1,6 @@
 # Awesome Guitar [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> Useful resources for (beginner) [guitar](https://en.wikipedia.org/wiki/Guitar) :guitar: players
+> Useful resources for (beginner) guitar :guitar: players
 
 You might also like [awesome-sheet-music](https://github.com/adius/awesome-sheet-music) and [awesome-music](https://github.com/ciconia/awesome-music).
 
