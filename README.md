@@ -54,6 +54,7 @@ You might also like [awesome-sheet-music](https://github.com/adius/awesome-sheet
 ## Building
 
 - [guitarspecs](https://github.com/gitfrage/guitarspecs) - Build your own electric guitar.
+- [/r/Luthier](https://www.reddit.com/r/Luthier/) - Subreddit for luthiers.
 
 ## License
 
