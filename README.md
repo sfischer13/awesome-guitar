@@ -26,7 +26,7 @@ You might also like [awesome-sheet-music](https://github.com/adius/awesome-sheet
 
 ## Community
 
-- [reddit](https://www.reddit.com/r/Guitar/) - Subreddit about guitars.
+- [/r/Guitar](https://www.reddit.com/r/Guitar/) - General subreddit about guitars.
 - [Music: Practice & Theory](https://music.stackexchange.com/) - Stack Exchange for music.
 
 ## Learning
