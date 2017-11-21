@@ -57,6 +57,7 @@ You might also like [awesome-sheet-music](https://github.com/adius/awesome-sheet
 ### Songs
 
 - [Recommended Guitar Songs](https://github.com/axs221/recommended-guitar-songs) - Lists of songs for beginning, intermediate, advanced and expert players.
+- [UG](https://www.ultimate-guitar.com/) - Guitar tabs and more.
 - [/r/weeklyguitarist](https://www.reddit.com/r/weeklyguitarist/) - Learn a new song every week!
 
 ### Equipment
