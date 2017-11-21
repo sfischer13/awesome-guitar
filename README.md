@@ -19,6 +19,7 @@ You might also like [awesome-sheet-music](https://github.com/adius/awesome-sheet
   - [Theory](#theory)
 - [Playing](#playing)
   - [Songs](#songs)
+  - [Equipment](#equipment)
 - [Building](#building)
 - [License](#license)
 
@@ -50,6 +51,10 @@ You might also like [awesome-sheet-music](https://github.com/adius/awesome-sheet
 ### Songs
 
 - [WeeklyGuitarist](https://www.reddit.com/r/weeklyguitarist/) - Learn a new song every week!
+
+### Equipment
+
+- [/r/guitarpedals](https://www.reddit.com/r/guitarpedals/) - Subreddit for everything related to guitar pedals.
 
 ## Building
 
