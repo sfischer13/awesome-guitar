@@ -12,9 +12,9 @@ You might also like [awesome-sheet-music](https://github.com/adius/awesome-sheet
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-- [Introduction](#introduction)
 - [Community](#community)
 - [Learning](#learning)
+  - [Basics](#basics)
   - [Courses](#courses)
   - [Theory](#theory)
 - [Playing](#playing)
@@ -24,16 +24,16 @@ You might also like [awesome-sheet-music](https://github.com/adius/awesome-sheet
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Introduction
-
-- [Wikipedia](https://en.wikipedia.org/wiki/Guitar) - Wikipedia entry about guitars.
-
 ## Community
 
 - [reddit](https://www.reddit.com/r/Guitar/) - Subreddit about guitars.
 - [Music: Practice & Theory](https://music.stackexchange.com/) - Stack Exchange for music.
 
 ## Learning
+
+### Basics
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Guitar) - Wikipedia entry about guitars.
 
 ### Courses
 
