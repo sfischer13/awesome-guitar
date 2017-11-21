@@ -50,6 +50,7 @@ You might also like [awesome-sheet-music](https://github.com/adius/awesome-sheet
 ### Theory
 
 - [Open Music Theory](http://openmusictheory.com/) - Open-source, interactive, online textbook.
+- [/r/musictheory](https://www.reddit.com/r/musictheory/) - Subreddit about music theory.
 
 ## Playing
 
