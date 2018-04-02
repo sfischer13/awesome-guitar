@@ -14,7 +14,7 @@ You might also like [awesome-sheet-music](https://github.com/adius/awesome-sheet
 
 - [Community](#community)
 - [Learning](#learning)
-  - [Basics](#basics)
+  - [Background](#background)
   - [Courses](#courses)
   - [Practice](#practice)
   - [Theory](#theory)
@@ -33,9 +33,11 @@ You might also like [awesome-sheet-music](https://github.com/adius/awesome-sheet
 
 ## Learning
 
-### Basics
+### Background
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Guitar) - Wikipedia entry about guitars.
+- [Guitar](https://en.wikipedia.org/wiki/Guitar) - General Wikipedia entry about guitars.
+- [Acoustic Guitar](https://en.wikipedia.org/wiki/Acoustic_guitar) - Wikipedia entry about acoustic guitars.
+- [Electric Guitar](https://en.wikipedia.org/wiki/Electric_guitar) - Wikipedia entry about electric guitars.
 
 ### Courses
 
