@@ -22,7 +22,6 @@ You might also like [awesome-sheet-music](https://github.com/adius/awesome-sheet
   - [Songs](#songs)
   - [Equipment](#equipment)
 - [Building](#building)
-- [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
