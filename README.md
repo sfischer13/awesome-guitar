@@ -15,6 +15,7 @@ You might also like [awesome-sheet-music](https://github.com/adius/awesome-sheet
 - [Community](#community)
 - [Learning](#learning)
   - [Background](#background)
+  - [Guitar Types](#guitar-types)
   - [Courses](#courses)
   - [Practice](#practice)
   - [Theory](#theory)
@@ -37,6 +38,9 @@ You might also like [awesome-sheet-music](https://github.com/adius/awesome-sheet
 ### Background
 
 - [Guitar](https://en.wikipedia.org/wiki/Guitar) - General Wikipedia entry about guitars.
+
+### Guitar Types
+
 - [Acoustic Guitar](https://en.wikipedia.org/wiki/Acoustic_guitar) - Wikipedia entry about acoustic guitars.
 - [Electric Guitar](https://en.wikipedia.org/wiki/Electric_guitar) - Wikipedia entry about electric guitars.
 - [Guitalele](https://en.wikipedia.org/wiki/Guitalele) - Wikipedia entry about guitaleles.
