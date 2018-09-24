@@ -65,6 +65,8 @@ You might also like [awesome-sheet-music](https://github.com/adius/awesome-sheet
 
 ### Tools
 
+- [Guitar Dashboard](http://guitardashboard.com/) - Interactive fretboard and circle of fifths.
+
 ### Equipment
 
 - [/r/guitarpedals](https://www.reddit.com/r/guitarpedals/) - Subreddit for everything related to guitar pedals.
