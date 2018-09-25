@@ -21,10 +21,10 @@ You might also like [awesome-sheet-music](https://github.com/adius/awesome-sheet
   - [Theory](#theory)
 - [Playing](#playing)
   - [Songs](#songs)
-  - [Tools](#tools)
-    - [Mobile](#mobile)
-    - [Websites](#websites)
   - [Equipment](#equipment)
+- [Tools](#tools)
+  - [Mobile](#mobile)
+  - [Websites](#websites)
 - [Building](#building)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -70,20 +70,20 @@ You might also like [awesome-sheet-music](https://github.com/adius/awesome-sheet
 - [Recommended Guitar Songs](https://github.com/axs221/recommended-guitar-songs) - Lists of songs for beginning, intermediate, advanced and expert players.
 - [/r/weeklyguitarist](https://www.reddit.com/r/weeklyguitarist/) - Learn a new song every week!
 
-### Tools
-
-#### Mobile
-
-- [SciTuner](https://github.com/kreshikhin/SciTuner) - Guitar tuner for iOS.
-
-#### Websites
-
-- [Guitar Dashboard](http://guitardashboard.com/) - Interactive fretboard and circle of fifths.
-- [guitar-tuner](https://github.com/googlearchive/guitar-tuner) - Web-based guitar tuner.
-
 ### Equipment
 
 - [/r/guitarpedals](https://www.reddit.com/r/guitarpedals/) - Subreddit for everything related to guitar pedals.
+
+## Tools
+
+### Mobile
+
+- [SciTuner](https://github.com/kreshikhin/SciTuner) - Guitar tuner for iOS.
+
+### Websites
+
+- [Guitar Dashboard](http://guitardashboard.com/) - Interactive fretboard and circle of fifths.
+- [guitar-tuner](https://github.com/googlearchive/guitar-tuner) - Web-based guitar tuner.
 
 ## Building
 
