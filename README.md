@@ -74,6 +74,7 @@ You might also like [awesome-sheet-music](https://github.com/adius/awesome-sheet
 
 #### Mobile
 
+- [SciTuner](https://github.com/kreshikhin/SciTuner) - Guitar tuner for iOS.
 
 #### Websites
 
