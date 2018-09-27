@@ -72,6 +72,7 @@ You might also like [awesome-sheet-music](https://github.com/adius/awesome-sheet
 
 ### Equipment
 
+- [Effects unit](https://en.wikipedia.org/wiki/Effects_unit) - Wikipedia article about effect pedals.
 - [/r/guitarpedals](https://www.reddit.com/r/guitarpedals/) - Subreddit for everything related to guitar pedals.
 
 ## Tools
