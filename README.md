@@ -85,6 +85,7 @@ You might also like [awesome-sheet-music](https://github.com/adius/awesome-sheet
 
 - [Guitar Dashboard](http://guitardashboard.com/) - Interactive fretboard and circle of fifths.
 - [guitar-tuner](https://github.com/googlearchive/guitar-tuner) - Web-based guitar tuner.
+- [arpeggio](https://github.com/korywakefield/arpeggio) - Chord naming app.
 
 ## Building
 
