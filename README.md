@@ -92,6 +92,7 @@ You might also like [awesome-sheet-music](https://github.com/adius/awesome-sheet
 - [arpeggio](https://github.com/korywakefield/arpeggio) - Chord naming app.
 - [guitar](https://github.com/1j01/guitar) - Interactive fretboard and tablature editor.
 - [Guitar Bro](https://github.com/makaroni4/guitar_bro) - Browser game for learning notes on the guitar.
+- [GuitarStack](https://github.com/lucaong/guitarstack) - Browser-based effect stack for electric guitars.
 
 ## Building
 
