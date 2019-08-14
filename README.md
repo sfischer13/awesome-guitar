@@ -83,6 +83,7 @@ You might also like [awesome-sheet-music](https://github.com/adius/awesome-sheet
 - [Android-Guitar-Tuner](https://github.com/chRyNaN/Android-Guitar-Tuner) - Guitar tuner for Android.
 - [Drum On!](https://f-droid.org/de/packages/se.tube42.drum.android/) - Drum app for Android.
 - [Earmouse](https://f-droid.org/de/packages/pk.contender.earmouse/) - Learn intervals and chords on Android.
+- [Cythara](https://f-droid.org/de/packages/com.github.cythara/) - Instrument tuner for Android.
 
 ### Websites
 
