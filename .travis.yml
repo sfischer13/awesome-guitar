@@ -1,6 +1,7 @@
+---
 language: node_js
 sudo: false
 notifications:
   email: true
 node_js:
-- node
+  - node
