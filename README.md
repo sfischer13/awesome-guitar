@@ -1,3 +1,5 @@
+<!--lint disable double-link-->
+
 # Awesome Guitar [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Useful resources for (beginner) guitar :guitar: players
