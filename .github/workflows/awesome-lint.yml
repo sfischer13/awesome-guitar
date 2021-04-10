@@ -1,0 +1,16 @@
+---
+name: "CI: awesome-lint"
+on:
+  push:
+    branches: [main]
+  schedule:
+    # 00:00 on Saturday
+    - cron: "0 0 * * 6"
+jobs:
+  awesome-lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - run: npx awesome-lint
