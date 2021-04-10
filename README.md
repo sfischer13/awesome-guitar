@@ -13,7 +13,6 @@ You might also like [awesome-sheet-music](https://github.com/adius/awesome-sheet
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-
 - [Community](#community)
 - [Learning](#learning)
   - [Background](#background)
@@ -102,9 +101,3 @@ You might also like [awesome-sheet-music](https://github.com/adius/awesome-sheet
 
 - [guitarspecs](https://github.com/gitfrage/guitarspecs) - Build your own electric guitar.
 - [/r/Luthier](https://www.reddit.com/r/Luthier/) - Subreddit for luthiers.
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Stefan Fischer](https://github.com/sfischer13) has waived all copyright and related or neighboring rights to this work.
