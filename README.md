@@ -63,6 +63,7 @@ You might also like [awesome-sheet-music](https://github.com/adius/awesome-sheet
 - [Open Music Theory](http://openmusictheory.com/) - Open-source, interactive, online textbook.
 - [teoría](http://teoria.com/) - Tutorials, exercises, reference and articles about music theory.
 - [/r/musictheory](https://www.reddit.com/r/musictheory/) - Subreddit about music theory.
+- [FaChords](https://www.fachords.com/) - Free interactive chords, scales, progressions and fretboard learning tools.
 
 ## Playing
 
