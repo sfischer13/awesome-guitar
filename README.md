@@ -97,6 +97,8 @@ You might also like [awesome-sheet-music](https://github.com/adius/awesome-sheet
 - [Pedalboard](https://github.com/DeerMichel/pedalboard) - Online pedalboard for audio manipulation.
 - [Fretboard for Guitar and Ukulele](https://guitarstreams.com/tool/fretboard/) - Interactive fretboard for guitar and ukulele.
 
+- [Fretboard](https://fretboard.tonecrafted.com) - Interactive fretboard trainer for scales and notes, with printable scale references.
+
 ## Building
 
 - [guitarspecs](https://github.com/gitfrage/guitarspecs) - Build your own electric guitar.
