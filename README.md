@@ -96,6 +96,7 @@ You might also like [awesome-sheet-music](https://github.com/adius/awesome-sheet
 - [GuitarStack](https://github.com/lucaong/guitarstack) - Browser-based effect stack for electric guitars.
 - [Pedalboard](https://github.com/DeerMichel/pedalboard) - Online pedalboard for audio manipulation.
 - [Fretboard for Guitar and Ukulele](https://guitarstreams.com/tool/fretboard/) - Interactive fretboard for guitar and ukulele.
+- [Music Practice](https://music.raeduslabs.com) - Free, open-source, no-account practice app for guitar (also piano and drums) that builds a curriculum and always tells you what to practice next, with ear training and spaced review.
 
 ## Building
 
