@@ -96,6 +96,7 @@ You might also like [awesome-sheet-music](https://github.com/adius/awesome-sheet
 - [GuitarStack](https://github.com/lucaong/guitarstack) - Browser-based effect stack for electric guitars.
 - [Pedalboard](https://github.com/DeerMichel/pedalboard) - Online pedalboard for audio manipulation.
 - [Fretboard for Guitar and Ukulele](https://guitarstreams.com/tool/fretboard/) - Interactive fretboard for guitar and ukulele.
+- [CapoChart](https://capochart.com/capo-calculator) - Capo calculator and PDF chord-chart transposer.
 
 ## Building
 
