@@ -96,6 +96,7 @@ You might also like [awesome-sheet-music](https://github.com/adius/awesome-sheet
 - [GuitarStack](https://github.com/lucaong/guitarstack) - Browser-based effect stack for electric guitars.
 - [Pedalboard](https://github.com/DeerMichel/pedalboard) - Online pedalboard for audio manipulation.
 - [Fretboard for Guitar and Ukulele](https://guitarstreams.com/tool/fretboard/) - Interactive fretboard for guitar and ukulele.
+- [RiFF.TOOLS](https://riff-tools.ru/) - Free browser-based practice toolkit: metronome, drum machine, tuner, chord transposer, ear trainer, fretboard trainer, chords, and CAGED scales. No install, no samples — all sound is synthesized.
 
 ## Building
 
