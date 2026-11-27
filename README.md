@@ -25,6 +25,7 @@ You might also like [awesome-sheet-music](https://github.com/adius/awesome-sheet
   - [Equipment](#equipment)
 - [Tools](#tools)
   - [Mobile](#mobile)
+  - [Desktop](#desktop)
   - [Websites](#websites)
 - [Building](#building)
 
@@ -85,6 +86,10 @@ You might also like [awesome-sheet-music](https://github.com/adius/awesome-sheet
 - [Drum On!](https://f-droid.org/de/packages/se.tube42.drum.android/) - Drum app for Android.
 - [Earmouse](https://f-droid.org/de/packages/pk.contender.earmouse/) - Learn intervals and chords on Android.
 - [Cythara](https://f-droid.org/de/packages/com.github.cythara/) - Instrument tuner for Android.
+
+### Desktop
+
+- [Fretboard Lab](https://hannes-software.com/fretboard-lab/) - Offline guitar chord chart maker and ergonomic fretboard voicing generator for Windows and Linux (free Community Edition).
 
 ### Websites
 
